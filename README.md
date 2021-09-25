@@ -1,0 +1,2 @@
+# LecopCoin
+LecopCoin
